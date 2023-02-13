@@ -1,0 +1,13 @@
+circle {
+    fill: limegreen;
+}
+
+body {
+    font-family: Arial;
+    font-size: 30px;
+}
+
+#frame {
+    width: 500px;
+    height: 500px;
+}
